@@ -4,4 +4,4 @@
 
 [CVE-2020-28871](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2020-28871)
 
-I you want to use your own shell, change nastar.php and put your shell in the same folder
+If you want to use your own shell, change nastar.php and put your shell in the same folder
