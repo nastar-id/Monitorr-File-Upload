@@ -27,7 +27,7 @@ def exploit(targets):
         else:
             print("{-} Shell failed %s\n" % (targets))
     except Exception as e:
-        print("{-} Unexpected error\n" % (targets))
+        print("{-} Unexpected error%s\n" % (targets))
         pass
 
 def banner():
